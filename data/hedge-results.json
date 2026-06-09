@@ -1,0 +1,88 @@
+{
+  "baseBookDelta": 682529.242,
+  "hedgeNotionalUSD": -682529.242,
+  "hedgedBookDelta": 0.0,
+  "unhedgedWorstLoss": -983500.1748,
+  "hedgedWorstLoss": -6533.0849,
+  "deltaReductionPct": 1.0,
+  "worstLossReductionPct": 0.9934,
+  "scenarios": [
+    {
+      "spotShock": -0.1,
+      "scenarioSpot": 15.3,
+      "unhedgedPnl": -983500.1748,
+      "hedgePnl": 1160299.7114,
+      "hedgedPnl": 176799.5367
+    },
+    {
+      "spotShock": -0.08,
+      "scenarioSpot": 15.64,
+      "unhedgedPnl": -838824.3053,
+      "hedgePnl": 928239.7691,
+      "hedgedPnl": 89415.4639
+    },
+    {
+      "spotShock": -0.06,
+      "scenarioSpot": 15.98,
+      "unhedgedPnl": -662728.4825,
+      "hedgePnl": 696179.8269,
+      "hedgedPnl": 33451.3443
+    },
+    {
+      "spotShock": -0.04,
+      "scenarioSpot": 16.32,
+      "unhedgedPnl": -457167.6484,
+      "hedgePnl": 464119.8846,
+      "hedgedPnl": 6952.2362
+    },
+    {
+      "spotShock": -0.02,
+      "scenarioSpot": 16.66,
+      "unhedgedPnl": -231999.9515,
+      "hedgePnl": 232059.9423,
+      "hedgedPnl": 59.9908
+    },
+    {
+      "spotShock": 0.0,
+      "scenarioSpot": 17.0,
+      "unhedgedPnl": 0.0,
+      "hedgePnl": -0.0,
+      "hedgedPnl": 0.0
+    },
+    {
+      "spotShock": 0.02,
+      "scenarioSpot": 17.34,
+      "unhedgedPnl": 230735.1931,
+      "hedgePnl": -232059.9423,
+      "hedgedPnl": -1324.7492
+    },
+    {
+      "spotShock": 0.04,
+      "scenarioSpot": 17.68,
+      "unhedgedPnl": 459535.9917,
+      "hedgePnl": -464119.8846,
+      "hedgedPnl": -4583.8929
+    },
+    {
+      "spotShock": 0.06,
+      "scenarioSpot": 18.02,
+      "unhedgedPnl": 689646.742,
+      "hedgePnl": -696179.8269,
+      "hedgedPnl": -6533.0849
+    },
+    {
+      "spotShock": 0.08,
+      "scenarioSpot": 18.36,
+      "unhedgedPnl": 923831.1716,
+      "hedgePnl": -928239.7691,
+      "hedgedPnl": -4408.5975
+    },
+    {
+      "spotShock": 0.1,
+      "scenarioSpot": 18.7,
+      "unhedgedPnl": 1162986.7767,
+      "hedgePnl": -1160299.7114,
+      "hedgedPnl": 2687.0653
+    }
+  ]
+}

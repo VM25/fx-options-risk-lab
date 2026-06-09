@@ -1,0 +1,74 @@
+[
+  {
+    "id": "OPT-001",
+    "pair": "USD/MXN",
+    "optionType": "call",
+    "position": "long",
+    "notionalUSD": 1000000,
+    "strike": 17.0,
+    "maturityYears": 0.25,
+    "impliedVol": 0.12,
+    "domesticRate": 0.095,
+    "foreignRate": 0.045
+  },
+  {
+    "id": "OPT-002",
+    "pair": "USD/MXN",
+    "optionType": "call",
+    "position": "short",
+    "notionalUSD": 750000,
+    "strike": 17.5,
+    "maturityYears": 0.25,
+    "impliedVol": 0.125,
+    "domesticRate": 0.095,
+    "foreignRate": 0.045
+  },
+  {
+    "id": "OPT-003",
+    "pair": "USD/MXN",
+    "optionType": "put",
+    "position": "long",
+    "notionalUSD": 1000000,
+    "strike": 16.5,
+    "maturityYears": 0.5,
+    "impliedVol": 0.13,
+    "domesticRate": 0.095,
+    "foreignRate": 0.045
+  },
+  {
+    "id": "OPT-004",
+    "pair": "USD/MXN",
+    "optionType": "put",
+    "position": "short",
+    "notionalUSD": 500000,
+    "strike": 17.0,
+    "maturityYears": 0.1,
+    "impliedVol": 0.115,
+    "domesticRate": 0.095,
+    "foreignRate": 0.045
+  },
+  {
+    "id": "OPT-005",
+    "pair": "USD/MXN",
+    "optionType": "call",
+    "position": "long",
+    "notionalUSD": 600000,
+    "strike": 18.0,
+    "maturityYears": 1.0,
+    "impliedVol": 0.14,
+    "domesticRate": 0.095,
+    "foreignRate": 0.045
+  },
+  {
+    "id": "OPT-006",
+    "pair": "USD/MXN",
+    "optionType": "put",
+    "position": "short",
+    "notionalUSD": 800000,
+    "strike": 16.0,
+    "maturityYears": 0.75,
+    "impliedVol": 0.135,
+    "domesticRate": 0.095,
+    "foreignRate": 0.045
+  }
+]

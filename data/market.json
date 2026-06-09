@@ -1,0 +1,11 @@
+{
+  "pair": "USD/MXN",
+  "spot": 17.0,
+  "domesticCurrency": "MXN",
+  "foreignCurrency": "USD",
+  "domesticRate": 0.095,
+  "foreignRate": 0.045,
+  "atmVolatility": 0.12,
+  "valuationDate": "2026-06-07",
+  "dataMode": "synthetic"
+}

@@ -1,0 +1,71 @@
+{
+  "status": "pass",
+  "seed": 635,
+  "quantlib": {
+    "status": "pass",
+    "benchmark": "QuantLib",
+    "version": "1.42.1"
+  },
+  "checks": [
+    {
+      "name": "put_call_parity",
+      "status": "pass",
+      "maxError": 0.0,
+      "detail": "27 strike/maturity/vol combinations"
+    },
+    {
+      "name": "intrinsic_value_at_expiry",
+      "status": "pass",
+      "maxError": 0.0,
+      "detail": ""
+    },
+    {
+      "name": "numerical_greeks_signed",
+      "status": "pass",
+      "maxError": 2.08466e-05,
+      "detail": "delta/gamma/vega, all 6 instruments, signed"
+    },
+    {
+      "name": "book_aggregation",
+      "status": "pass",
+      "maxError": 0.0,
+      "detail": "MV, delta, gamma, vega, theta"
+    },
+    {
+      "name": "scenario_repricing_vs_export",
+      "status": "pass",
+      "maxError": 0.0030604147,
+      "detail": "independent reprice of all spot/vol/stress scenarios + worst/best"
+    },
+    {
+      "name": "hedge_sign_effectiveness",
+      "status": "pass",
+      "maxError": 0.0,
+      "detail": "sign, delta reduction, downside, hedge-pnl direction"
+    },
+    {
+      "name": "var_es_sign_convention",
+      "status": "pass",
+      "maxError": 0.0,
+      "detail": "positive, ES>=VaR, 99>=95"
+    },
+    {
+      "name": "attribution_identity",
+      "status": "pass",
+      "maxError": 0.0100000001,
+      "detail": "residual == full reprice - sum(greek contributions)"
+    },
+    {
+      "name": "export_completeness",
+      "status": "pass",
+      "maxError": 0.0,
+      "detail": "all required files present and finite"
+    },
+    {
+      "name": "quantlib_benchmark",
+      "status": "pass",
+      "maxError": 0.0,
+      "detail": "benchmarked against QuantLib 1.42.1"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "status": "pass",
+  "benchmark": "QuantLib",
+  "benchmarkVersion": "1.42.1",
+  "customModel": "Garman-Kohlhagen",
+  "checkedInstruments": 6,
+  "maxAbsPriceError": 0.0,
+  "maxAbsDeltaError": 0.0,
+  "maxAbsGammaError": 0.0,
+  "maxAbsVegaError": 0.0,
+  "maxAbsThetaError": 0.0,
+  "thetaComparison": "checked",
+  "tolerance": 1e-07,
+  "note": "Per-unit-notional comparison with ACT/365-aligned maturities. Price and delta/gamma/vega agree to tolerance; theta is also compared (QuantLib analytic theta per year).",
+  "perInstrument": [
+    {
+      "id": "OPT-001",
+      "priceError": 0.0,
+      "deltaError": 0.0,
+      "gammaError": 0.0,
+      "vegaError": 0.0,
+      "thetaError": 0.0
+    },
+    {
+      "id": "OPT-002",
+      "priceError": 0.0,
+      "deltaError": 0.0,
+      "gammaError": 0.0,
+      "vegaError": 0.0,
+      "thetaError": 0.0
+    },
+    {
+      "id": "OPT-003",
+      "priceError": 0.0,
+      "deltaError": 0.0,
+      "gammaError": 0.0,
+      "vegaError": 0.0,
+      "thetaError": 0.0
+    },
+    {
+      "id": "OPT-004",
+      "priceError": 0.0,
+      "deltaError": 0.0,
+      "gammaError": 0.0,
+      "vegaError": 0.0,
+      "thetaError": 0.0
+    },
+    {
+      "id": "OPT-005",
+      "priceError": 0.0,
+      "deltaError": 0.0,
+      "gammaError": 0.0,
+      "vegaError": 0.0,
+      "thetaError": 0.0
+    },
+    {
+      "id": "OPT-006",
+      "priceError": 0.0,
+      "deltaError": 0.0,
+      "gammaError": 0.0,
+      "vegaError": 0.0,
+      "thetaError": 0.0
+    }
+  ]
+}

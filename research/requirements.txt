@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+# Independent pricing/Greeks benchmark (optional: the pipeline skips the
+# benchmark cleanly if QuantLib is not installed).
+QuantLib>=1.30

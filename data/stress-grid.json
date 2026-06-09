@@ -1,0 +1,628 @@
+{
+  "grid": [
+    {
+      "spotShock": -0.1,
+      "volShock": -0.05,
+      "scenarioSpot": 15.3,
+      "scenarioVol": 0.07,
+      "bookValue": -291235.647506,
+      "pnl": -1078361.767229
+    },
+    {
+      "spotShock": -0.08,
+      "volShock": -0.05,
+      "scenarioSpot": 15.64,
+      "scenarioVol": 0.07,
+      "bookValue": -217494.97781,
+      "pnl": -1004621.097533
+    },
+    {
+      "spotShock": -0.06,
+      "volShock": -0.05,
+      "scenarioSpot": 15.98,
+      "scenarioVol": 0.07,
+      "bookValue": -106929.640056,
+      "pnl": -894055.759778
+    },
+    {
+      "spotShock": -0.04,
+      "volShock": -0.05,
+      "scenarioSpot": 16.32,
+      "scenarioVol": 0.07,
+      "bookValue": 62449.867328,
+      "pnl": -724676.252395
+    },
+    {
+      "spotShock": -0.02,
+      "volShock": -0.05,
+      "scenarioSpot": 16.66,
+      "scenarioVol": 0.07,
+      "bookValue": 294761.818742,
+      "pnl": -492364.300981
+    },
+    {
+      "spotShock": 0.0,
+      "volShock": -0.05,
+      "scenarioSpot": 17.0,
+      "scenarioVol": 0.07,
+      "bookValue": 557720.098107,
+      "pnl": -229406.021616
+    },
+    {
+      "spotShock": 0.02,
+      "volShock": -0.05,
+      "scenarioSpot": 17.34,
+      "scenarioVol": 0.07,
+      "bookValue": 817610.270715,
+      "pnl": 30484.150992
+    },
+    {
+      "spotShock": 0.04,
+      "volShock": -0.05,
+      "scenarioSpot": 17.68,
+      "scenarioVol": 0.07,
+      "bookValue": 1070764.70539,
+      "pnl": 283638.585668
+    },
+    {
+      "spotShock": 0.06,
+      "volShock": -0.05,
+      "scenarioSpot": 18.02,
+      "scenarioVol": 0.07,
+      "bookValue": 1320867.68659,
+      "pnl": 533741.566868
+    },
+    {
+      "spotShock": 0.08,
+      "volShock": -0.05,
+      "scenarioSpot": 18.36,
+      "scenarioVol": 0.07,
+      "bookValue": 1569665.323079,
+      "pnl": 782539.203356
+    },
+    {
+      "spotShock": 0.1,
+      "volShock": -0.05,
+      "scenarioSpot": 18.7,
+      "scenarioVol": 0.07,
+      "bookValue": 1820524.478218,
+      "pnl": 1033398.358495
+    },
+    {
+      "spotShock": -0.1,
+      "volShock": -0.03,
+      "scenarioSpot": 15.3,
+      "scenarioVol": 0.09,
+      "bookValue": -267284.871954,
+      "pnl": -1054410.991677
+    },
+    {
+      "spotShock": -0.08,
+      "volShock": -0.03,
+      "scenarioSpot": 15.64,
+      "scenarioVol": 0.09,
+      "bookValue": -160516.867256,
+      "pnl": -947642.986978
+    },
+    {
+      "spotShock": -0.06,
+      "volShock": -0.03,
+      "scenarioSpot": 15.98,
+      "scenarioVol": 0.09,
+      "bookValue": -15817.591784,
+      "pnl": -802943.711506
+    },
+    {
+      "spotShock": -0.04,
+      "volShock": -0.03,
+      "scenarioSpot": 16.32,
+      "scenarioVol": 0.09,
+      "bookValue": 175452.749064,
+      "pnl": -611673.370659
+    },
+    {
+      "spotShock": -0.02,
+      "volShock": -0.03,
+      "scenarioSpot": 16.66,
+      "scenarioVol": 0.09,
+      "bookValue": 405538.020021,
+      "pnl": -381588.099701
+    },
+    {
+      "spotShock": 0.0,
+      "volShock": -0.03,
+      "scenarioSpot": 17.0,
+      "scenarioVol": 0.09,
+      "bookValue": 651527.902757,
+      "pnl": -135598.216966
+    },
+    {
+      "spotShock": 0.02,
+      "volShock": -0.03,
+      "scenarioSpot": 17.34,
+      "scenarioVol": 0.09,
+      "bookValue": 895626.608012,
+      "pnl": 108500.488289
+    },
+    {
+      "spotShock": 0.04,
+      "volShock": -0.03,
+      "scenarioSpot": 17.68,
+      "scenarioVol": 0.09,
+      "bookValue": 1136205.593276,
+      "pnl": 349079.473553
+    },
+    {
+      "spotShock": 0.06,
+      "volShock": -0.03,
+      "scenarioSpot": 18.02,
+      "scenarioVol": 0.09,
+      "bookValue": 1377567.255879,
+      "pnl": 590441.136156
+    },
+    {
+      "spotShock": 0.08,
+      "volShock": -0.03,
+      "scenarioSpot": 18.36,
+      "scenarioVol": 0.09,
+      "bookValue": 1621516.610974,
+      "pnl": 834390.491251
+    },
+    {
+      "spotShock": 0.1,
+      "volShock": -0.03,
+      "scenarioSpot": 18.7,
+      "scenarioVol": 0.09,
+      "bookValue": 1868477.151139,
+      "pnl": 1081351.031417
+    },
+    {
+      "spotShock": -0.1,
+      "volShock": -0.01,
+      "scenarioSpot": 15.3,
+      "scenarioVol": 0.11,
+      "bookValue": -223658.523529,
+      "pnl": -1010784.643252
+    },
+    {
+      "spotShock": -0.08,
+      "volShock": -0.01,
+      "scenarioSpot": 15.64,
+      "scenarioVol": 0.11,
+      "bookValue": -89994.651951,
+      "pnl": -877120.771674
+    },
+    {
+      "spotShock": -0.06,
+      "volShock": -0.01,
+      "scenarioSpot": 15.98,
+      "scenarioVol": 0.11,
+      "bookValue": 77821.891129,
+      "pnl": -709304.228594
+    },
+    {
+      "spotShock": -0.04,
+      "volShock": -0.01,
+      "scenarioSpot": 16.32,
+      "scenarioVol": 0.11,
+      "bookValue": 280163.209441,
+      "pnl": -506962.910282
+    },
+    {
+      "spotShock": -0.02,
+      "volShock": -0.01,
+      "scenarioSpot": 16.66,
+      "scenarioVol": 0.11,
+      "bookValue": 506914.504615,
+      "pnl": -280211.615108
+    },
+    {
+      "spotShock": 0.0,
+      "volShock": -0.01,
+      "scenarioSpot": 17.0,
+      "scenarioVol": 0.11,
+      "bookValue": 742583.552495,
+      "pnl": -44542.567228
+    },
+    {
+      "spotShock": 0.02,
+      "volShock": -0.01,
+      "scenarioSpot": 17.34,
+      "scenarioVol": 0.11,
+      "bookValue": 976846.048841,
+      "pnl": 189719.929118
+    },
+    {
+      "spotShock": 0.04,
+      "volShock": -0.01,
+      "scenarioSpot": 17.68,
+      "scenarioVol": 0.11,
+      "bookValue": 1208829.488244,
+      "pnl": 421703.368521
+    },
+    {
+      "spotShock": 0.06,
+      "volShock": -0.01,
+      "scenarioSpot": 18.02,
+      "scenarioVol": 0.11,
+      "bookValue": 1442201.615242,
+      "pnl": 655075.495519
+    },
+    {
+      "spotShock": 0.08,
+      "volShock": -0.01,
+      "scenarioSpot": 18.36,
+      "scenarioVol": 0.11,
+      "bookValue": 1679583.49575,
+      "pnl": 892457.376027
+    },
+    {
+      "spotShock": 0.1,
+      "volShock": -0.01,
+      "scenarioSpot": 18.7,
+      "scenarioVol": 0.11,
+      "bookValue": 1921532.238649,
+      "pnl": 1134406.118926
+    },
+    {
+      "spotShock": -0.1,
+      "volShock": 0.0,
+      "scenarioSpot": 15.3,
+      "scenarioVol": 0.12,
+      "bookValue": -196374.05504,
+      "pnl": -983500.174762
+    },
+    {
+      "spotShock": -0.08,
+      "volShock": 0.0,
+      "scenarioSpot": 15.64,
+      "scenarioVol": 0.12,
+      "bookValue": -51698.185551,
+      "pnl": -838824.305273
+    },
+    {
+      "spotShock": -0.06,
+      "volShock": 0.0,
+      "scenarioSpot": 15.98,
+      "scenarioVol": 0.12,
+      "bookValue": 124397.637193,
+      "pnl": -662728.482529
+    },
+    {
+      "spotShock": -0.04,
+      "volShock": 0.0,
+      "scenarioSpot": 16.32,
+      "scenarioVol": 0.12,
+      "bookValue": 329958.471322,
+      "pnl": -457167.648401
+    },
+    {
+      "spotShock": -0.02,
+      "volShock": 0.0,
+      "scenarioSpot": 16.66,
+      "scenarioVol": 0.12,
+      "bookValue": 555126.168218,
+      "pnl": -231999.951504
+    },
+    {
+      "spotShock": 0.0,
+      "volShock": 0.0,
+      "scenarioSpot": 17.0,
+      "scenarioVol": 0.12,
+      "bookValue": 787126.119723,
+      "pnl": 0.0
+    },
+    {
+      "spotShock": 0.02,
+      "volShock": 0.0,
+      "scenarioSpot": 17.34,
+      "scenarioVol": 0.12,
+      "bookValue": 1017861.312845,
+      "pnl": 230735.193123
+    },
+    {
+      "spotShock": 0.04,
+      "volShock": 0.0,
+      "scenarioSpot": 17.68,
+      "scenarioVol": 0.12,
+      "bookValue": 1246662.111422,
+      "pnl": 459535.9917
+    },
+    {
+      "spotShock": 0.06,
+      "volShock": 0.0,
+      "scenarioSpot": 18.02,
+      "scenarioVol": 0.12,
+      "bookValue": 1476772.8617,
+      "pnl": 689646.741978
+    },
+    {
+      "spotShock": 0.08,
+      "volShock": 0.0,
+      "scenarioSpot": 18.36,
+      "scenarioVol": 0.12,
+      "bookValue": 1710957.291356,
+      "pnl": 923831.171634
+    },
+    {
+      "spotShock": 0.1,
+      "volShock": 0.0,
+      "scenarioSpot": 18.7,
+      "scenarioVol": 0.12,
+      "bookValue": 1950112.896465,
+      "pnl": 1162986.776743
+    },
+    {
+      "spotShock": -0.1,
+      "volShock": 0.01,
+      "scenarioSpot": 15.3,
+      "scenarioVol": 0.13,
+      "bookValue": -166338.899107,
+      "pnl": -953465.01883
+    },
+    {
+      "spotShock": -0.08,
+      "volShock": 0.01,
+      "scenarioSpot": 15.64,
+      "scenarioVol": 0.13,
+      "bookValue": -12172.582638,
+      "pnl": -799298.702361
+    },
+    {
+      "spotShock": -0.06,
+      "volShock": 0.01,
+      "scenarioSpot": 15.98,
+      "scenarioVol": 0.13,
+      "bookValue": 170532.169985,
+      "pnl": -616593.949738
+    },
+    {
+      "spotShock": -0.04,
+      "volShock": 0.01,
+      "scenarioSpot": 16.32,
+      "scenarioVol": 0.13,
+      "bookValue": 378356.874314,
+      "pnl": -408769.245408
+    },
+    {
+      "spotShock": -0.02,
+      "volShock": 0.01,
+      "scenarioSpot": 16.66,
+      "scenarioVol": 0.13,
+      "bookValue": 602073.177987,
+      "pnl": -185052.941736
+    },
+    {
+      "spotShock": 0.0,
+      "volShock": 0.01,
+      "scenarioSpot": 17.0,
+      "scenarioVol": 0.13,
+      "bookValue": 831088.383825,
+      "pnl": 43962.264103
+    },
+    {
+      "spotShock": 0.02,
+      "volShock": 0.01,
+      "scenarioSpot": 17.34,
+      "scenarioVol": 0.13,
+      "bookValue": 1058946.656053,
+      "pnl": 271820.536331
+    },
+    {
+      "spotShock": 0.04,
+      "volShock": 0.01,
+      "scenarioSpot": 17.68,
+      "scenarioVol": 0.13,
+      "bookValue": 1285121.932,
+      "pnl": 497995.812278
+    },
+    {
+      "spotShock": 0.06,
+      "volShock": 0.01,
+      "scenarioSpot": 18.02,
+      "scenarioVol": 0.13,
+      "bookValue": 1512450.300122,
+      "pnl": 725324.180399
+    },
+    {
+      "spotShock": 0.08,
+      "volShock": 0.01,
+      "scenarioSpot": 18.36,
+      "scenarioVol": 0.13,
+      "bookValue": 1743692.644978,
+      "pnl": 956566.525256
+    },
+    {
+      "spotShock": 0.1,
+      "volShock": 0.01,
+      "scenarioSpot": 18.7,
+      "scenarioVol": 0.13,
+      "bookValue": 1980053.572515,
+      "pnl": 1192927.452793
+    },
+    {
+      "spotShock": -0.1,
+      "volShock": 0.03,
+      "scenarioSpot": 15.3,
+      "scenarioVol": 0.15,
+      "bookValue": -100184.642363,
+      "pnl": -887310.762085
+    },
+    {
+      "spotShock": -0.08,
+      "volShock": 0.03,
+      "scenarioSpot": 15.64,
+      "scenarioVol": 0.15,
+      "bookValue": 69000.492663,
+      "pnl": -718125.627059
+    },
+    {
+      "spotShock": -0.06,
+      "volShock": 0.03,
+      "scenarioSpot": 15.98,
+      "scenarioVol": 0.15,
+      "bookValue": 261198.525866,
+      "pnl": -525927.593856
+    },
+    {
+      "spotShock": -0.04,
+      "volShock": 0.03,
+      "scenarioSpot": 16.32,
+      "scenarioVol": 0.15,
+      "bookValue": 471734.542355,
+      "pnl": -315391.577368
+    },
+    {
+      "spotShock": -0.02,
+      "volShock": 0.03,
+      "scenarioSpot": 16.66,
+      "scenarioVol": 0.15,
+      "bookValue": 692983.471641,
+      "pnl": -94142.648082
+    },
+    {
+      "spotShock": 0.0,
+      "volShock": 0.03,
+      "scenarioSpot": 17.0,
+      "scenarioVol": 0.15,
+      "bookValue": 917512.741053,
+      "pnl": 130386.62133
+    },
+    {
+      "spotShock": 0.02,
+      "volShock": 0.03,
+      "scenarioSpot": 17.34,
+      "scenarioVol": 0.15,
+      "bookValue": 1141041.649522,
+      "pnl": 353915.529799
+    },
+    {
+      "spotShock": 0.04,
+      "volShock": 0.03,
+      "scenarioSpot": 17.68,
+      "scenarioVol": 0.15,
+      "bookValue": 1363227.627642,
+      "pnl": 576101.507919
+    },
+    {
+      "spotShock": 0.06,
+      "volShock": 0.03,
+      "scenarioSpot": 18.02,
+      "scenarioVol": 0.15,
+      "bookValue": 1586210.740922,
+      "pnl": 799084.621199
+    },
+    {
+      "spotShock": 0.08,
+      "volShock": 0.03,
+      "scenarioSpot": 18.36,
+      "scenarioVol": 0.15,
+      "bookValue": 1812498.368437,
+      "pnl": 1025372.248714
+    },
+    {
+      "spotShock": 0.1,
+      "volShock": 0.03,
+      "scenarioSpot": 18.7,
+      "scenarioVol": 0.15,
+      "bookValue": 2043664.388099,
+      "pnl": 1256538.268376
+    },
+    {
+      "spotShock": -0.1,
+      "volShock": 0.05,
+      "scenarioSpot": 15.3,
+      "scenarioVol": 0.17,
+      "bookValue": -28655.73124,
+      "pnl": -815781.850963
+    },
+    {
+      "spotShock": -0.08,
+      "volShock": 0.05,
+      "scenarioSpot": 15.64,
+      "scenarioVol": 0.17,
+      "bookValue": 151363.664724,
+      "pnl": -635762.454999
+    },
+    {
+      "spotShock": -0.06,
+      "volShock": 0.05,
+      "scenarioSpot": 15.98,
+      "scenarioVol": 0.17,
+      "bookValue": 349686.263111,
+      "pnl": -437439.856612
+    },
+    {
+      "spotShock": -0.04,
+      "volShock": 0.05,
+      "scenarioSpot": 16.32,
+      "scenarioVol": 0.17,
+      "bookValue": 561560.577045,
+      "pnl": -225565.542678
+    },
+    {
+      "spotShock": -0.02,
+      "volShock": 0.05,
+      "scenarioSpot": 16.66,
+      "scenarioVol": 0.17,
+      "bookValue": 780883.153335,
+      "pnl": -6242.966388
+    },
+    {
+      "spotShock": 0.0,
+      "volShock": 0.05,
+      "scenarioSpot": 17.0,
+      "scenarioVol": 0.17,
+      "bookValue": 1002290.922732,
+      "pnl": 215164.803009
+    },
+    {
+      "spotShock": 0.02,
+      "volShock": 0.05,
+      "scenarioSpot": 17.34,
+      "scenarioVol": 0.17,
+      "bookValue": 1222810.64668,
+      "pnl": 435684.526958
+    },
+    {
+      "spotShock": 0.04,
+      "volShock": 0.05,
+      "scenarioSpot": 17.68,
+      "scenarioVol": 0.17,
+      "bookValue": 1442207.062064,
+      "pnl": 655080.942341
+    },
+    {
+      "spotShock": 0.06,
+      "volShock": 0.05,
+      "scenarioSpot": 18.02,
+      "scenarioVol": 0.17,
+      "bookValue": 1662098.107486,
+      "pnl": 874971.987763
+    },
+    {
+      "spotShock": 0.08,
+      "volShock": 0.05,
+      "scenarioSpot": 18.36,
+      "scenarioVol": 0.17,
+      "bookValue": 1884620.139649,
+      "pnl": 1097494.019926
+    },
+    {
+      "spotShock": 0.1,
+      "volShock": 0.05,
+      "scenarioSpot": 18.7,
+      "scenarioVol": 0.17,
+      "bookValue": 2111428.842783,
+      "pnl": 1324302.72306
+    }
+  ],
+  "summary": {
+    "worstCasePnl": -1078361.77,
+    "worstCaseSpotShock": -0.1,
+    "worstCaseVolShock": -0.05,
+    "bestCasePnl": 1324302.72,
+    "bestCaseSpotShock": 0.1,
+    "bestCaseVolShock": 0.05
+  }
+}

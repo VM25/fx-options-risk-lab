@@ -1,0 +1,44 @@
+[
+  {
+    "volShock": -0.05,
+    "scenarioVol": 0.07,
+    "bookValue": 557720.098107,
+    "pnl": -229406.021616
+  },
+  {
+    "volShock": -0.03,
+    "scenarioVol": 0.09,
+    "bookValue": 651527.902757,
+    "pnl": -135598.216966
+  },
+  {
+    "volShock": -0.01,
+    "scenarioVol": 0.11,
+    "bookValue": 742583.552495,
+    "pnl": -44542.567228
+  },
+  {
+    "volShock": 0.0,
+    "scenarioVol": 0.12,
+    "bookValue": 787126.119723,
+    "pnl": 0.0
+  },
+  {
+    "volShock": 0.01,
+    "scenarioVol": 0.13,
+    "bookValue": 831088.383825,
+    "pnl": 43962.264103
+  },
+  {
+    "volShock": 0.03,
+    "scenarioVol": 0.15,
+    "bookValue": 917512.741053,
+    "pnl": 130386.62133
+  },
+  {
+    "volShock": 0.05,
+    "scenarioVol": 0.17,
+    "bookValue": 1002290.922732,
+    "pnl": 215164.803009
+  }
+]

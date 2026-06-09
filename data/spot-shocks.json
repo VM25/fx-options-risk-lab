@@ -1,0 +1,68 @@
+[
+  {
+    "spotShock": -0.1,
+    "scenarioSpot": 15.3,
+    "bookValue": -196374.05504,
+    "pnl": -983500.174762
+  },
+  {
+    "spotShock": -0.08,
+    "scenarioSpot": 15.64,
+    "bookValue": -51698.185551,
+    "pnl": -838824.305273
+  },
+  {
+    "spotShock": -0.06,
+    "scenarioSpot": 15.98,
+    "bookValue": 124397.637193,
+    "pnl": -662728.482529
+  },
+  {
+    "spotShock": -0.04,
+    "scenarioSpot": 16.32,
+    "bookValue": 329958.471322,
+    "pnl": -457167.648401
+  },
+  {
+    "spotShock": -0.02,
+    "scenarioSpot": 16.66,
+    "bookValue": 555126.168218,
+    "pnl": -231999.951504
+  },
+  {
+    "spotShock": 0.0,
+    "scenarioSpot": 17.0,
+    "bookValue": 787126.119723,
+    "pnl": 0.0
+  },
+  {
+    "spotShock": 0.02,
+    "scenarioSpot": 17.34,
+    "bookValue": 1017861.312845,
+    "pnl": 230735.193123
+  },
+  {
+    "spotShock": 0.04,
+    "scenarioSpot": 17.68,
+    "bookValue": 1246662.111422,
+    "pnl": 459535.9917
+  },
+  {
+    "spotShock": 0.06,
+    "scenarioSpot": 18.02,
+    "bookValue": 1476772.8617,
+    "pnl": 689646.741978
+  },
+  {
+    "spotShock": 0.08,
+    "scenarioSpot": 18.36,
+    "bookValue": 1710957.291356,
+    "pnl": 923831.171634
+  },
+  {
+    "spotShock": 0.1,
+    "scenarioSpot": 18.7,
+    "bookValue": 1950112.896465,
+    "pnl": 1162986.776743
+  }
+]

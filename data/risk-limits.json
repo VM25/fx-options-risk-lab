@@ -1,0 +1,37 @@
+[
+  {
+    "metric": "95% VaR",
+    "value": 159067.44,
+    "limit": 300000.0,
+    "utilization": 0.5302,
+    "status": "green"
+  },
+  {
+    "metric": "99% VaR",
+    "value": 225065.74,
+    "limit": 420000.0,
+    "utilization": 0.5359,
+    "status": "green"
+  },
+  {
+    "metric": "Worst stress loss",
+    "value": 1078361.77,
+    "limit": 750000.0,
+    "utilization": 1.4378,
+    "status": "red"
+  },
+  {
+    "metric": "Absolute net delta",
+    "value": 682529.24,
+    "limit": 150000.0,
+    "utilization": 4.5502,
+    "status": "red"
+  },
+  {
+    "metric": "Net vega / vol point",
+    "value": 44242.08,
+    "limit": 40000.0,
+    "utilization": 1.1061,
+    "status": "red"
+  }
+]

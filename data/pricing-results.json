@@ -1,0 +1,61 @@
+{
+  "instruments": [
+    {
+      "id": "OPT-001",
+      "optionType": "call",
+      "position": "long",
+      "pricePerUsd": 0.51286,
+      "marketValueMXN": 512859.72,
+      "signedMarketValueMXN": 512859.72
+    },
+    {
+      "id": "OPT-002",
+      "optionType": "call",
+      "position": "short",
+      "pricePerUsd": 0.297437,
+      "marketValueMXN": 223078.01,
+      "signedMarketValueMXN": -223078.01
+    },
+    {
+      "id": "OPT-003",
+      "optionType": "put",
+      "position": "long",
+      "pricePerUsd": 0.251945,
+      "marketValueMXN": 251945.28,
+      "signedMarketValueMXN": 251945.28
+    },
+    {
+      "id": "OPT-004",
+      "optionType": "put",
+      "position": "short",
+      "pricePerUsd": 0.20501,
+      "marketValueMXN": 102505.17,
+      "signedMarketValueMXN": -102505.17
+    },
+    {
+      "id": "OPT-005",
+      "optionType": "call",
+      "position": "long",
+      "pricePerUsd": 0.85303,
+      "marketValueMXN": 511817.96,
+      "signedMarketValueMXN": 511817.96
+    },
+    {
+      "id": "OPT-006",
+      "optionType": "put",
+      "position": "short",
+      "pricePerUsd": 0.204892,
+      "marketValueMXN": 163913.66,
+      "signedMarketValueMXN": -163913.66
+    }
+  ],
+  "summary": {
+    "instrumentCount": 6,
+    "grossNotionalUSD": 4650000,
+    "netMarketValueMXN": 787126.12,
+    "netDelta": 682529.242,
+    "netGamma": -17038.085324,
+    "netVegaPerVolPoint": 44242.08,
+    "netThetaPerDay": -1545.36
+  }
+}

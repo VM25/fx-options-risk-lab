@@ -1,0 +1,79 @@
+{
+  "instruments": [
+    {
+      "id": "OPT-001",
+      "delta": 587541.5524,
+      "gamma": 375914.878049,
+      "vegaPerVolPoint": 32591.82,
+      "thetaPerDay": -3377.79,
+      "signedDelta": 587541.5524,
+      "signedGamma": 375914.878049,
+      "signedVegaPerVolPoint": 32591.82,
+      "signedThetaPerDay": -3377.79
+    },
+    {
+      "id": "OPT-002",
+      "delta": 302617.7281,
+      "gamma": 271027.465123,
+      "vegaPerVolPoint": 24477.17,
+      "thetaPerDay": -2323.18,
+      "signedDelta": -302617.7281,
+      "signedGamma": -271027.465123,
+      "signedVegaPerVolPoint": -24477.17,
+      "signedThetaPerDay": 2323.18
+    },
+    {
+      "id": "OPT-003",
+      "delta": -254425.2844,
+      "gamma": 203034.673814,
+      "vegaPerVolPoint": 38140.06,
+      "thetaPerDay": -700.34,
+      "signedDelta": -254425.2844,
+      "signedGamma": 203034.673814,
+      "signedVegaPerVolPoint": 38140.06,
+      "signedThetaPerDay": -700.34
+    },
+    {
+      "id": "OPT-004",
+      "delta": -218088.9985,
+      "gamma": 317333.988251,
+      "vegaPerVolPoint": 10546.6,
+      "thetaPerDay": -1126.89,
+      "signedDelta": 218088.9985,
+      "signedGamma": -317333.988251,
+      "signedVegaPerVolPoint": -10546.6,
+      "signedThetaPerDay": 1126.89
+    },
+    {
+      "id": "OPT-005",
+      "delta": 291116.7117,
+      "gamma": 96131.074991,
+      "vegaPerVolPoint": 38894.63,
+      "thetaPerDay": -1290.65,
+      "signedDelta": 291116.7117,
+      "signedGamma": 96131.074991,
+      "signedVegaPerVolPoint": 38894.63,
+      "signedThetaPerDay": -1290.65
+    },
+    {
+      "id": "OPT-006",
+      "delta": -142824.9919,
+      "gamma": 103757.258805,
+      "vegaPerVolPoint": 30360.67,
+      "thetaPerDay": -373.35,
+      "signedDelta": 142824.9919,
+      "signedGamma": -103757.258805,
+      "signedVegaPerVolPoint": -30360.67,
+      "signedThetaPerDay": 373.35
+    }
+  ],
+  "summary": {
+    "instrumentCount": 6,
+    "grossNotionalUSD": 4650000,
+    "netMarketValueMXN": 787126.12,
+    "netDelta": 682529.242,
+    "netGamma": -17038.085324,
+    "netVegaPerVolPoint": 44242.08,
+    "netThetaPerDay": -1545.36
+  }
+}

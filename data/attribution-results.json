@@ -1,0 +1,50 @@
+[
+  {
+    "scenarioName": "+5% spot / +3 vol pts",
+    "spotShock": 0.05,
+    "volShock": 0.03,
+    "days": 0,
+    "fullRepricingPnl": 687324.02,
+    "deltaContribution": 580149.86,
+    "gammaContribution": -6155.01,
+    "vegaContribution": 132726.25,
+    "thetaContribution": -0.0,
+    "residual": -19397.08
+  },
+  {
+    "scenarioName": "-5% spot / +3 vol pts",
+    "spotShock": -0.05,
+    "volShock": 0.03,
+    "days": 0,
+    "fullRepricingPnl": -422512.97,
+    "deltaContribution": -580149.86,
+    "gammaContribution": -6155.01,
+    "vegaContribution": 132726.25,
+    "thetaContribution": -0.0,
+    "residual": 31065.65
+  },
+  {
+    "scenarioName": "Worst stress",
+    "spotShock": -0.1,
+    "volShock": -0.05,
+    "days": 0,
+    "fullRepricingPnl": -1078361.77,
+    "deltaContribution": -1160299.71,
+    "gammaContribution": -24620.03,
+    "vegaContribution": -221210.41,
+    "thetaContribution": -0.0,
+    "residual": 327768.39
+  },
+  {
+    "scenarioName": "1-day carry",
+    "spotShock": 0.0,
+    "volShock": 0.0,
+    "days": 1,
+    "fullRepricingPnl": -1538.83,
+    "deltaContribution": 0.0,
+    "gammaContribution": -0.0,
+    "vegaContribution": 0.0,
+    "thetaContribution": -1545.36,
+    "residual": 6.53
+  }
+]
