@@ -4,8 +4,6 @@
 
 A Python research layer prices the book directly with a custom Garman-Kohlhagen engine, validates itself (including an independent QuantLib benchmark), and exports deterministic JSON. A single-page Next.js / TypeScript front end renders it as an editorial risk note. Every chart and metric is traceable to the generated data — nothing is hardcoded in the UI. This is a portfolio demonstration, not production risk management.
 
-Repository: https://github.com/VM25/fx-options-risk-lab
-
 ---
 
 ## What it covers
